@@ -1,0 +1,4 @@
+Simple Music Machine is a music generation program. 
+It analyzes music through markov chains and uses what it learns to generate more, similar sounding music follow the same basic rules. 
+
+Poetry Machine provides the lyrics for these musical pieces by similarly analyzing classical poems following a rhyme-scheme and generating rhyming poems. 
