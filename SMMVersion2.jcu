@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>SMMVersion2</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>SMMVersion2</label>
+			<showfiles>false</showfiles>
+			<fileitem>
+				<path>SimpleMusicMachine.java</path>
+				<collapsedfolds>20;96;141;175;201;238;269;286;301;307;327;336;362;426;430</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>SimpleMusicMachine.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

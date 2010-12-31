@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>SMMVersion2</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0_17</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>SimpleMusicMachine</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>JMusic</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<fileitem>
+				<path>jMusic1.6.01.jar</path>
+			</fileitem>
+			<fileitem>
+				<path>SimpleMusicMachine.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
